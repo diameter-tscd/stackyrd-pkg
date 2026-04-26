@@ -1,0 +1,32 @@
+name: Repository Indexer
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0,12 * * *"  
+
+jobs:
+  index:
+    runs-on: ubuntu-slim
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate index file
+        run: |
+          rm -f index
+
+          find . -type f \
+            -not -path "./.git/*" \
+            -not -name "index" \
+            | sort > index
+
+      - name: Commit & push index
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add index
+          git diff --cached --quiet || git commit -m "chore: update index"
+          git push
