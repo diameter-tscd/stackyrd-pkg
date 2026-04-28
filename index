@@ -5,6 +5,10 @@
 ./README.md
 ./pkg/infrastructure/android/adb/1.0.0/adb.yrd
 ./pkg/infrastructure/android/fastboot/1.0.0/fastboot.yrd
+./pkg/infrastructure/cache/memcached/1.0.0/memcached.yrd
+./pkg/infrastructure/cache/pulsar/1.0.0/pulsar.yrd
+./pkg/infrastructure/cache/redis/1.0.0/redis.yrd
+./pkg/infrastructure/cache/redpanda/1.0.0/redpanda.yrd
 ./pkg/infrastructure/cicd/jenkins/1.0.0/jenkins.yrd
 ./pkg/infrastructure/cicd/openshift/1.0.0/openshift.yrd
 ./pkg/infrastructure/cloud/aws/ec2/1.0.0/aws_ec2.yrd
@@ -23,6 +27,7 @@
 ./pkg/infrastructure/connection/kubernetes/1.0.0/kubernetes.yrd
 ./pkg/infrastructure/connection/minio/1.0.0/minio.yrd
 ./pkg/infrastructure/connection/modbus/1.0.0/modbus.yrd
+./pkg/infrastructure/connection/nats/1.0.0/nats.yrd
 ./pkg/infrastructure/connection/netcat/1.0.0/netcat.yrd
 ./pkg/infrastructure/connection/port_forwarder/1.0.0/port_forwarder.yrd
 ./pkg/infrastructure/connection/smtp/1.0.0/smtp.yrd
@@ -33,6 +38,7 @@
 ./pkg/infrastructure/database/mongo/1.0.0/kafka.yrd
 ./pkg/infrastructure/database/mongo/1.0.0/mongo.yrd
 ./pkg/infrastructure/database/mysql/1.0.0/mysql.yrd
+./pkg/infrastructure/database/neo4j/1.0.0/neo4j.yrd
 ./pkg/infrastructure/database/postgres/1.0.0/postgres.yrd
 ./pkg/infrastructure/database/qdrant/1.0.0/qdrant.yrd
 ./pkg/infrastructure/database/redis/1.0.0/redis.yrd
@@ -58,6 +64,7 @@
 ./pkg/infrastructure/router/mikrotik/1.0.0/mikrotik.yrd
 ./pkg/infrastructure/router/openwrt/1.0.0/openwrt.yrd
 ./pkg/infrastructure/security/calico/1.0.0/calico.yrd
+./pkg/infrastructure/security/google/authenticator/1.0.0/google_authenticator.yrd
 ./pkg/infrastructure/security/sentry/1.0.0/sentry.yrd
 ./pkg/infrastructure/social/discord/1.0.0/discord.yrd
 ./pkg/infrastructure/social/slack/1.0.0/slack.yrd
