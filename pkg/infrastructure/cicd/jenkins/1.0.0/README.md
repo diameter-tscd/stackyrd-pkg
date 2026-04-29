@@ -289,7 +289,7 @@ jenkins:
     slack:
       enabled: true
       webhook: "https://hooks.slack.com/..."
-      channel: "#ci-cd"
+      channel: "ci-cd"
   pipeline_templates:
     nodejs: |
       <?xml version='1.0' encoding='UTF-8'?>

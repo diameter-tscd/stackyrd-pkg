@@ -24,10 +24,10 @@ The `GorillaWebsocketManager` is a Go library for managing WebSocket client conn
 package main#
 
 import (#
-    "context"#
-    "fmt"#
-    "stackyrd/pkg/infrastructure/connection/gorilla"#
-    "stackyrd/pkg/logger"#
+    "context"
+    "fmt"
+    "stackyrd/pkg/infrastructure/connection/gorilla"
+    "stackyrd/pkg/logger"
 )#
 
 func main() {#
@@ -103,7 +103,7 @@ func main() {#
 ```
 NewGorillaWebsocketManager(l)
     │#
-    ├── Check viper config: "websocket.enabled"#
+    ├── Check viper config: "websocket.enabled"
     ├── Get url: "websocket.url" (required)#
     ├── Get reconnectMax: "websocket.reconnect_max" (default: 5)#
     ├── Get reconnectDelay: "websocket.reconnect_delay" (default: 2s)#
