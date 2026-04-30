@@ -113,6 +113,7 @@
 ./pkg/utils/date.yrd
 ./pkg/utils/encryption.yrd
 ./pkg/utils/ftp.yrd
+./pkg/utils/http.yrd
 ./pkg/utils/image.yrd
 ./pkg/utils/io.yrd
 ./pkg/utils/numeric.yrd
