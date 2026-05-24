@@ -78,6 +78,8 @@
 ./pkg/infrastructure/database/qdrant/1.0.0/qdrant.yrd
 ./pkg/infrastructure/database/redis/1.0.0/README.md
 ./pkg/infrastructure/database/redis/1.0.0/redis.yrd
+./pkg/infrastructure/database/sqlite/1.0.0/README.md
+./pkg/infrastructure/database/sqlite/1.0.0/sqlite.yrd
 ./pkg/infrastructure/exchange/binance/1.0.0/README.md
 ./pkg/infrastructure/exchange/binance/1.0.0/binance.yrd
 ./pkg/infrastructure/exchange/bybit/1.0.0/README.md
@@ -115,11 +117,17 @@
 ./pkg/infrastructure/payment/midtrans/1.0.0/midtrans.yrd
 ./pkg/infrastructure/plc/festo/1.0.0/README.md
 ./pkg/infrastructure/plc/festo/1.0.0/festo.yrd
+./pkg/infrastructure/router/mikrotik/1.0.0/README.md
 ./pkg/infrastructure/router/mikrotik/1.0.0/mikrotik.yrd
+./pkg/infrastructure/router/openwrt/1.0.0/README.md
 ./pkg/infrastructure/router/openwrt/1.0.0/openwrt.yrd
+./pkg/infrastructure/security/calico/1.0.0/README.md
 ./pkg/infrastructure/security/calico/1.0.0/calico.yrd
+./pkg/infrastructure/security/google/authenticator/1.0.0/README.md
 ./pkg/infrastructure/security/google/authenticator/1.0.0/google_authenticator.yrd
+./pkg/infrastructure/security/sentry/1.0.0/README.md
 ./pkg/infrastructure/security/sentry/1.0.0/sentry.yrd
+./pkg/infrastructure/social/discord/1.0.0/README.md
 ./pkg/infrastructure/social/discord/1.0.0/discord.yrd
 ./pkg/infrastructure/social/slack/1.0.0/slack.yrd
 ./pkg/infrastructure/social/telegram/1.0.0/telegram.yrd
@@ -128,6 +136,7 @@
 ./pkg/infrastructure/versioning/github/1.0.0/github.yrd
 ./pkg/infrastructure/versioning/gitlab/1.0.0/gitlab.yrd
 ./pkg/utils/broadcast.yrd
+./pkg/utils/colly.yrd
 ./pkg/utils/date.yrd
 ./pkg/utils/encryption.yrd
 ./pkg/utils/ftp.yrd
