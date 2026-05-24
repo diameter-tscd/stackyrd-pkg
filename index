@@ -7,6 +7,8 @@
 ./pkg/infrastructure/android/adb/1.0.0/adb.yrd
 ./pkg/infrastructure/android/fastboot/1.0.0/README.md
 ./pkg/infrastructure/android/fastboot/1.0.0/fastboot.yrd
+./pkg/infrastructure/auth/saml-sso/1.0.0/README.md
+./pkg/infrastructure/auth/saml-sso/1.0.0/saml.yrd
 ./pkg/infrastructure/cache/memcached/1.0.0/README.md
 ./pkg/infrastructure/cache/memcached/1.0.0/memcached.yrd
 ./pkg/infrastructure/cache/pulsar/1.0.0/README.md
