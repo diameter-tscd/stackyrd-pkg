@@ -9,6 +9,8 @@
 ./pkg/infrastructure/android/fastboot/1.0.0/fastboot.yrd
 ./pkg/infrastructure/auth/saml-sso/1.0.0/README.md
 ./pkg/infrastructure/auth/saml-sso/1.0.0/saml.yrd
+./pkg/infrastructure/auth/totp-google/1.0.0/README.md
+./pkg/infrastructure/auth/totp-google/1.0.0/totp_google.yrd
 ./pkg/infrastructure/cache/memcached/1.0.0/README.md
 ./pkg/infrastructure/cache/memcached/1.0.0/memcached.yrd
 ./pkg/infrastructure/cache/pulsar/1.0.0/README.md
