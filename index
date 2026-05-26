@@ -111,6 +111,8 @@
 ./pkg/infrastructure/llm/openclaw/1.0.0/openclaw.yrd
 ./pkg/infrastructure/llm/openrouter/1.0.0/README.md
 ./pkg/infrastructure/llm/openrouter/1.0.0/openrouter.yrd
+./pkg/infrastructure/mail/smtp/1.0.0/README.md
+./pkg/infrastructure/mail/smtp/1.0.0/smtp.yrd
 ./pkg/infrastructure/management/confluence/1.0.0/README.md
 ./pkg/infrastructure/management/confluence/1.0.0/confluence.yrd
 ./pkg/infrastructure/monitor/grafana/1.0.0/README.md
