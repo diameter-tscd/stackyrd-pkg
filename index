@@ -143,6 +143,10 @@
 ./pkg/infrastructure/versioning/gitlab/1.0.0/gitlab.yrd
 ./pkg/utils/broadcast.yrd
 ./pkg/utils/colly.yrd
+./pkg/utils/connection/ftp/1.0.0/README.md
+./pkg/utils/connection/ftp/1.0.0/ftp.yrd
+./pkg/utils/connection/ftp_server/1.0.0/README.md
+./pkg/utils/connection/ftp_server/1.0.0/ftp_server.yrd
 ./pkg/utils/date.yrd
 ./pkg/utils/encryption.yrd
 ./pkg/utils/ftp.yrd
