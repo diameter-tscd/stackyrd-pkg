@@ -37,8 +37,12 @@
 ./pkg/infrastructure/cloud/google/drive/1.0.0/google_drive.yrd
 ./pkg/infrastructure/cloud/google/firebase/1.0.0/README.md
 ./pkg/infrastructure/cloud/google/firebase/1.0.0/google_firebase.yrd
+./pkg/infrastructure/cloud/neon/1.0.0/README.md
+./pkg/infrastructure/cloud/neon/1.0.0/neon.yrd
 ./pkg/infrastructure/cloud/supabase/1.0.0/README.md
 ./pkg/infrastructure/cloud/supabase/1.0.0/supabase.yrd
+./pkg/infrastructure/cloud/upstash/1.0.0/README.md
+./pkg/infrastructure/cloud/upstash/1.0.0/upstash.yrd
 ./pkg/infrastructure/cnc/mitsubishi/1.0.0/README.md
 ./pkg/infrastructure/cnc/mitsubishi/1.0.0/mitsubishi_cnc.yrd
 ./pkg/infrastructure/component/registry/1.0.0/registry.yrd
