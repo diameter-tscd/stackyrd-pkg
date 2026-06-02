@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".assets/banner.png" alt="stackyrd-pkg" style="width: 100%; max-width: 700px;"/>
+  <img src=".github/assets/banner.png" alt="stackyrd-pkg" style="width: 100%; max-width: 700px;"/>
 
   <p align="center">
     Central package repository
