@@ -1,4 +1,4 @@
-./.assets/banner.png
+./.github/assets/banner.png
 ./.github/workflows/indexer.yml
 ./.gitignore
 ./LICENSE
@@ -31,6 +31,8 @@
 ./pkg/infrastructure/cloud/aws/lambda/1.0.0/aws_lambda.yrd
 ./pkg/infrastructure/cloud/aws/s3/1.0.0/README.md
 ./pkg/infrastructure/cloud/aws/s3/1.0.0/aws_s3.yrd
+./pkg/infrastructure/cloud/clerk/1.0.0/README.md
+./pkg/infrastructure/cloud/clerk/1.0.0/clerk.yrd
 ./pkg/infrastructure/cloud/cloudflare/1.0.0/README.md
 ./pkg/infrastructure/cloud/cloudflare/1.0.0/cloudflare.yrd
 ./pkg/infrastructure/cloud/google/drive/1.0.0/README.md
@@ -41,6 +43,8 @@
 ./pkg/infrastructure/cloud/neon/1.0.0/neon.yrd
 ./pkg/infrastructure/cloud/supabase/1.0.0/README.md
 ./pkg/infrastructure/cloud/supabase/1.0.0/supabase.yrd
+./pkg/infrastructure/cloud/turso/1.0.0/README.md
+./pkg/infrastructure/cloud/turso/1.0.0/turso.yrd
 ./pkg/infrastructure/cloud/upstash/1.0.0/README.md
 ./pkg/infrastructure/cloud/upstash/1.0.0/upstash.yrd
 ./pkg/infrastructure/cnc/mitsubishi/1.0.0/README.md
